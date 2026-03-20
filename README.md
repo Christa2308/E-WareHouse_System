@@ -19,7 +19,7 @@ The primary aim is to solve real-world logistical challenges through these key f
 
 * ***Supplier & Order Management:*** Create modules to track incoming shipments from suppliers and outgoing orders to customers.
 
-  **𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔊𝔬𝔞𝔩𝔰**
+**𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔊𝔬𝔞𝔩𝔰**
 
 Demonstrating mastery over the ASP.NET Web Forms lifecycle and database connectivity:
 
