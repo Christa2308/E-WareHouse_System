@@ -9,24 +9,24 @@ This system provides a centralized platform to manage real-time stock levels, su
 ### 2. Project Objectives
 The objectives are divided into functional and technical goals:
 
-**𝔉𝔲𝔫𝔠𝔱𝔦𝔬𝔫𝔞𝔩 𝔊𝔬𝔞𝔩𝔰**
+   **𝔉𝔲𝔫𝔠𝔱𝔦𝔬𝔫𝔞𝔩 𝔊𝔬𝔞𝔩𝔰** 
 
 The primary aim is to solve real-world logistical challenges through these key features:
 
-***- Inventory Tracking:*** Implement a robust CRUD system to manage products, categories, and stock quantities across multiple bin locations.
+* ***Inventory Tracking:*** Implement a robust CRUD system to manage products, categories, and stock quantities across multiple bin locations.
 
-***- Automated Stock Alerts:*** Develop a notification system that flags items falling below a predefined "Minimum Reorder Level."
+* ***Automated Stock Alerts:*** Develop a notification system that flags items falling below a predefined "Minimum Reorder Level."
 
-***- Supplier & Order Management:*** Create modules to track incoming shipments from suppliers and outgoing orders to customers.
+* ***Supplier & Order Management:*** Create modules to track incoming shipments from suppliers and outgoing orders to customers.
 
-**𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔊𝔬𝔞𝔩𝔰**
+  **𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔊𝔬𝔞𝔩𝔰**
 
 Demonstrating mastery over the ASP.NET Web Forms lifecycle and database connectivity:
 
-***- State Persistence:*** Utilize ViewState and Session objects to maintain data consistency.
+* ***State Persistence:*** Utilize ViewState and Session objects to maintain data consistency.
 
-***- Dynamic Data Binding:*** Use GridView and Repeater controls for real-time reporting.
+* ***Dynamic Data Binding:*** Use GridView and Repeater controls for real-time reporting.
 
-***- Secure Access:*** Implement Role-Based Access Control (RBAC) to distinguish between Admin and Staff users.
+* ***Secure Access:*** Implement Role-Based Access Control (RBAC) to distinguish between Admin and Staff users.
 
 
