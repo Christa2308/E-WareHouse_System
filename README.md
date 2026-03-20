@@ -9,7 +9,7 @@ This system provides a centralized platform to manage real-time stock levels, su
 ## 2. Project Objectives
 The objectives are divided into functional and technical goals:
 
-#### Primary Functional Objectives
+#### PRIMARY FUNCTIONAL OBJECTIVES
 
  **- *Inventory Tracking:***  Implement a robust CRUD (Create, Read, Update, Delete) system to manage products, categories, and stock quantities across multiple bin locations.
 
@@ -19,7 +19,7 @@ The objectives are divided into functional and technical goals:
 
 **- *User Role Security:*** Establish an authentication layer to distinguish between Admins (full system access) and Staff (view and update stock only).
 
-#### Technical Objectives:
+#### TECHNICAL OBJECTIVES
 
 **- *State Persistence:*** Utilize ViewState and Session objects to maintain data consistency across postbacks in the Web Forms lifecycle.
 
