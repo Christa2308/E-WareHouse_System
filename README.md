@@ -73,6 +73,7 @@ Demonstrating mastery over the ASP.NET Web Forms lifecycle and database connecti
 <img width="534" height="610" alt="image" src="https://github.com/user-attachments/assets/185cb5ed-0f43-470d-b957-054fc34fb6d6" />
 
 ---
+
 ### Authors
 
 | No. | Name                    | Role      |
