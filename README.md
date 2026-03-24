@@ -1,9 +1,11 @@
 # E-WareHouse_System
 > A robust web-based solution for digitizing and automating warehouse operations.
  ### 1. Project Statement 
-The E-Warehouse System is a web-based solution designed to digitize and automate the core operations of a storage facility. Traditional manual record-keeping often leads to data silos, inventory inaccuracies, and delayed order fulfillment.
+The E-Warehouse System addresses challenges faced in traditional warehouse management, where operations rely on manual processes or outdated software. These approaches often lead to inefficiencies such as inaccurate inventory tracking, delays in order processing, and lack of real-time data visibility. As a result, managing stock levels, monitoring product movement, and generating reliable reports becomes difficult, leading to errors and reduced productivity.
 
-This system provides a centralized platform to manage real-time stock levels, supplier interactions, and warehouse movements. By leveraging the event-driven architecture of ASP.NET Web Forms, the application ensures data integrity and provides a responsive interface for warehouse managers to monitor assets, reduce overhead costs, and optimize the supply chain workflow.
+Many existing systems also lack a centralized platform to efficiently manage warehouse activities, including supplier coordination and inventory updates. This creates challenges in maintaining data consistency and responding quickly to operational needs.
+
+Therefore, there is a need for a modern, web-based solution that can streamline warehouse operations, improve accuracy, and provide real-time access to critical information.
 
 ---
 ### 2. Project Objectives
@@ -29,4 +31,54 @@ Demonstrating mastery over the ASP.NET Web Forms lifecycle and database connecti
 
 * ***Secure Access:*** Implement Role-Based Access Control (RBAC) to distinguish between Admin and Staff users.
 
+--- 
+### 3. Functional and Non-Functional Requirements
+
+   **Functional Requirements**
+***
+| No.  | Requirement                                                                       |
+| ---- | --------------------------------------------------------------------------------- |
+| FR1  | The system shall allow users to register, login, and logout                       |
+| FR2  | The system shall allow admin to manage users (add, update, delete)                |
+| FR3  | The system shall allow users to add, update, and delete products                  |
+| FR4  | The system shall display a list of available products and their details           |
+| FR5  | The system shall track inventory levels automatically                             |
+| FR6  | The system shall alert users when stock is low                                    |
+| FR7  | The system shall allow users to create and manage orders                          |
+| FR8  | The system shall allow users to update order status (pending, shipped, delivered) |
+| FR9  | The system shall allow users to manage suppliers information                      |
+| FR10 | The system shall generate inventory reports                                       |
+| FR11 | The system shall generate order reports                                           |
+| FR12 | The system shall provide search and filter functionality                          |
+
+   **Non-Functional Requirements**
+***
+| No.  | Requirement                                                      |
+| ---- | ---------------------------------------------------------------- |
+| NFR1 | The system shall respond to user actions within 2–3 seconds      |
+| NFR2 | The system shall ensure secure login and data protection         |
+| NFR3 | The system shall be user-friendly and easy to use                |
+| NFR4 | The system shall be available and reliable with minimal downtime |
+| NFR5 | The system shall support multiple users simultaneously           |
+| NFR6 | The system shall be scalable for future improvements             |
+| NFR7 | The system shall be compatible with modern web browsers          |
+| NFR8 | The system shall ensure data backup and recovery                 |
+
+### 4. Use Case Diagram
+
+<img width="595" height="716" alt="Use Case Diagram E-Warehouse" src="https://github.com/user-attachments/assets/3c712cc9-bd27-438b-87a6-c66956c483cc" />
+
+### 5. Database Diagram 
+
+<img width="534" height="610" alt="image" src="https://github.com/user-attachments/assets/185cb5ed-0f43-470d-b957-054fc34fb6d6" />
+
+---
+### Authors
+
+| No. | Name                    | Role      |
+| --- | ----------------------- | --------- |
+| 1   | UWAMAHORO Christa       | Developer |
+| 2   | INGABIRE Confiance      | Developer |
+| 3   | NIYOMUFASHA Olive       | Developer |
+| 4   | UMWIZERWA Natete Belyse | Developer |
 
