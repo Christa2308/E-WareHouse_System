@@ -36,50 +36,71 @@ Demonstrating mastery over the ASP.NET Web Forms lifecycle and database connecti
 **Inventory Management**
 
 Keep track of all items in the warehouse
+
 Add, update, or remove products
+
 Know current stock levels in real time
+
 ---
 
 **Receiving Goods**
 
 Record items coming from suppliers
+
 Verify quantity and quality of goods
+
 Automatically update inventory
+
 ---
 
 **Order Management**
 
 Process customer orders
+
 Check the availability of products
+
 Manage order status (pending, shipped, delivered)
+
 ---
 
 **Shipping & Delivery**
 
 Prepare items for delivery
+
 Track shipments
+
 Update delivery status
+
 ---
 
 **Product Management**
 
 Store product details (name, price, category)
+
 Organize products into categories
+
 Search and filter products easily
+
 --- 
 
 **User Management**
 
 Manage system users (Admin, Staff, Customer)
+
 Control access (who can do what)
+
 Secure login/logout
+
 ---
 
 **Returns Management**
 
 Handle returned goods
+
 Update inventory after returns
+
 Track reasons for return
+
 ---
 ### 3. Functional and Non-Functional Requirements
 
